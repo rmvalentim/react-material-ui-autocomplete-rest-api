@@ -1,10 +1,10 @@
-h1. React Material-ui Autocomplete - Rest API
+# React Material-ui Autocomplete - Rest API
 
 This is an example implementation of how to consume a REST API to populate the selection options for an Autocomplete component of the Material-ui through the insertion of user data.
 
 The API will be consulted after entering the fourth character in the input field and then the options will be listed in the component.
 
-h1. Installation
+# Installation
 
 <pre><code>
 npm install
@@ -12,7 +12,7 @@ cd backend
 npm install
 </code></pre>
 
-h1. Usage
+# Usage
 
 In the backend folder:
 <pre><code>
@@ -24,4 +24,4 @@ In the root folder:
 npm start
 </code></pre>
 
-Then access the URL: http: // localhost: 30000
+Then access the URL: http://localhost:3000
