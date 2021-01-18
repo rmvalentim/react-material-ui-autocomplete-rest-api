@@ -13,7 +13,7 @@ function App() {
   const handleInputChange = (event, newInputValue) => {
 
     setInputValue(newInputValue);    
-
+    console.log('2');
     
     if( newInputValue.length >= 4 ) {
 
